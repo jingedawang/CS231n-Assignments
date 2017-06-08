@@ -188,5 +188,4 @@ class KNearestNeighbor(object):
       #                           END OF YOUR CODE                            # 
       #########################################################################
 
-    return y_pred
-
+    return y_pred            
